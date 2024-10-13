@@ -2,7 +2,9 @@
   "extras": [
     "lazyvim.plugins.extras.coding.copilot-chat",
     "lazyvim.plugins.extras.editor.harpoon2",
-    "lazyvim.plugins.extras.lang.go"
+    "lazyvim.plugins.extras.editor.leap",
+    "lazyvim.plugins.extras.lang.go",
+    "lazyvim.plugins.extras.lang.sql"
   ],
   "news": {
     "NEWS.md": "6520"
